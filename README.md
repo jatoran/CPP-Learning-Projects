@@ -1,11 +1,11 @@
 # CPP-Learning-Projects
 Blackjack and HiLo in C++
 
-##HiLo
+## HiLo
 
 ![alt text](https://raw.githubusercontent.com/jatoran/CPP-Learning-Projects/main/images/HiLoSS1.png)
 
 
-##BlackJack
+## BlackJack
 
 ![alt text](https://raw.githubusercontent.com/jatoran/CPP-Learning-Projects/main/images/BlackJackSS1.png)
